@@ -1,4 +1,1 @@
-Nuevo
-
-
-Esta es una prueba desde remositorio en el equipo
+console.log("tati linda")
